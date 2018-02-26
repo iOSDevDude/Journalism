@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bc51900-d7f2-4209-b681-8a1f45611b8c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Journalism Database" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Login_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Login_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="7" />
+              <folding>
+                <marker date="1514575702000" expanded="true" signature="905:1101" ph="INSERT INTO Student... " />
+                <marker date="1514575702000" expanded="true" signature="1201:1294" ph="INSERT INTO `Account`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="29" column="76" lean-forward="true" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/studentrecord/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2967">
+              <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Studentrecord.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Studentrecord.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loggedin</find>
+      <find>direct</find>
+      <find>logged</find>
+      <find>redirect</find>
+      <find>loginuser</find>
+      <find>username</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/controllers/Studentlist.php" />
+        <option value="$PROJECT_DIR$/application/views/studentlist/index.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
+        <option value="$PROJECT_DIR$/application/models/Stats_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Stats.php" />
+        <option value="$PROJECT_DIR$/application/models/Studentrecord_model.php" />
+        <option value="$PROJECT_DIR$/application/views/studentrecord/index.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Studentrecord.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Login.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="[::1]" id="39f78906-6141-401f-8664-9f892a5f808a" name="[::1]" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/Applications/XAMPP/xamppfiles/htdocs/journalism" />
+        </path_mappings>
+      </server>
+      <server host="localhost" id="ff7999bb-72f7-4884-a589-8078aa3aafad" name="localhost" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/application/views/studentrecord" remote-root="/Applications/XAMPP/xamppfiles/htdocs" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/journalism" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="journalism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="journalism" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="journalism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="journalism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="journalism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="journalism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="journalism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="journalism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="journalism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="journalism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="journalism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="journalism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="login" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bc51900-d7f2-4209-b681-8a1f45611b8c" name="Default" comment="" />
+      <created>1514828611700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514828611700</updated>
+      <workItem from="1514828614661" duration="772000" />
+      <workItem from="1514839607128" duration="3224000" />
+      <workItem from="1514857068815" duration="4841000" />
+      <workItem from="1514938558132" duration="501000" />
+      <workItem from="1515444009621" duration="1608000" />
+      <workItem from="1515446759543" duration="2400000" />
+      <workItem from="1515511282398" duration="19534000" />
+      <workItem from="1515606661305" duration="228000" />
+      <workItem from="1515697361805" duration="2203000" />
+      <workItem from="1515789711773" duration="3668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38979000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918256" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16015625" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32561308" sideWeight="0.496875" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918256" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16015625" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32561308" sideWeight="0.496875" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Login.php</url>
+          <line>106</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Stats.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Login.php</url>
+          <line>29</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="34" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;1&quot;</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/models/Studentrecord_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <marker date="1515702391000" expanded="true" signature="203:255" ph="SELECT * FRO... StudentView" />
+            <marker date="1515702391000" expanded="true" signature="574:640" ph="SELECT * FRO... StudentCourseStatusView" />
+            <marker date="1515702391000" expanded="true" signature="1366:1427" ph="SELECT * FRO... StudentAdvisorView" />
+            <marker date="1515702391000" expanded="true" signature="1743:1890" ph="UPDATE User... " />
+            <marker date="1515702391000" expanded="true" signature="1743:1892" ph="UPDATE User... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentrecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/studentrecord/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Studentrecord_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515702391000" expanded="true" signature="203:255" ph="SELECT * FRO... StudentView" />
+            <marker date="1515702391000" expanded="true" signature="574:640" ph="SELECT * FRO... StudentCourseStatusView" />
+            <marker date="1515702391000" expanded="true" signature="1366:1427" ph="SELECT * FRO... StudentAdvisorView" />
+            <marker date="1515702391000" expanded="true" signature="1743:1890" ph="UPDATE User... " />
+            <marker date="1515702391000" expanded="true" signature="1743:1892" ph="UPDATE User... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentrecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" column="39" lean-forward="false" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/studentrecord/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Studentrecord_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515702391000" expanded="true" signature="203:255" ph="SELECT * FRO... StudentView" />
+            <marker date="1515702391000" expanded="true" signature="574:640" ph="SELECT * FRO... StudentCourseStatusView" />
+            <marker date="1515702391000" expanded="true" signature="1366:1427" ph="SELECT * FRO... StudentAdvisorView" />
+            <marker date="1515702391000" expanded="true" signature="1743:1890" ph="UPDATE User... " />
+            <marker date="1515702391000" expanded="true" signature="1743:1892" ph="UPDATE User... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentrecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" column="39" lean-forward="true" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/studentrecord/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentrecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="81" lean-forward="false" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Studentrecord_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="84" lean-forward="false" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+          <folding>
+            <marker date="1515702391000" expanded="true" signature="203:255" ph="SELECT * FRO... StudentView" />
+            <marker date="1515702391000" expanded="true" signature="574:640" ph="SELECT * FRO... StudentCourseStatusView" />
+            <marker date="1515702391000" expanded="true" signature="1366:1427" ph="SELECT * FRO... StudentAdvisorView" />
+            <marker date="1515702391000" expanded="true" signature="1743:1890" ph="UPDATE User... " />
+            <marker date="1515702391000" expanded="true" signature="1743:1892" ph="UPDATE User... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/studentrecord/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Studentlist_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/studentlist/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="96" lean-forward="true" selection-start-line="28" selection-start-column="96" selection-end-line="28" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Studentlist_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/studentlist/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Studentlist_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/studentlist/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="63" lean-forward="true" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/f51b6676-abf1-4a41-9ea4-0bfe8a5c1593">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>f51b6676-abf1-4a41-9ea4-0bfe8a5c1593</OriginalElement>
+          <nodes>
+            <node x="254.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.StudentCourseStatusView</node>
+            <node x="0.0" y="179.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.JRNOption</node>
+            <node x="1244.3869047619046" y="179.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CourseCompletionStatus</node>
+            <node x="1002.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.CourseView</node>
+            <node x="681.5624999999999" y="422.5">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Minor</node>
+            <node x="504.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.AdvisorView</node>
+            <node x="753.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.StudentAdvisorView</node>
+            <node x="0.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.StudentView</node>
+            <node x="1058.3869047619046" y="157.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Course</node>
+            <node x="1055.0714285714284" y="411.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Course</node>
+            <node x="502.5624999999999" y="422.5">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Major</node>
+            <node x="180.99999999999977" y="179.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Classification</node>
+            <node x="868.0208333333331" y="422.5">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Advisor</node>
+            <node x="356.9999999999999" y="190.5">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CatalogYear</node>
+            <node x="749.0297619047617" y="124.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User</node>
+            <node x="231.3244047619046" y="378.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student</node>
+            <node x="1058.3869047619046" y="0.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CoursePrefix</node>
+            <node x="779.5297619047617" y="0.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.UserType</node>
+            <node x="552.6458333333331" y="179.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.AcademicDiscipline</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Minor" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.AcademicDiscipline">
+              <point x="-39.75" y="-36.5" />
+              <point x="721.3124999999999" y="328.0" />
+              <point x="677.1458333333331" y="328.0" />
+              <point x="41.5" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Course" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CoursePrefix">
+              <point x="0.0" y="-59.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Classification">
+              <point x="-26.125" y="-81.0" />
+              <point x="309.6994047619046" y="348.0" />
+              <point x="258.9999999999998" y="348.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Course" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Course">
+              <point x="1.4210854715202004E-14" y="-48.0" />
+              <point x="1157.5714285714284" y="358.0" />
+              <point x="1141.3869047619046" y="358.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Major" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="39.75" y="-36.5" />
+              <point x="621.8124999999999" y="348.0" />
+              <point x="805.7797619047617" y="348.0" />
+              <point x="-56.75000000000001" y="92.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Minor" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="39.75" y="-36.5" />
+              <point x="800.8124999999999" y="358.0" />
+              <point x="843.6130952380951" y="358.0" />
+              <point x="-18.91666666666667" y="92.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CatalogYear">
+              <point x="26.125" y="-81.0" />
+              <point x="361.9494047619046" y="328.0" />
+              <point x="413.9999999999999" y="328.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Course" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CourseCompletionStatus">
+              <point x="68.33333333333333" y="-48.0" />
+              <point x="1225.9047619047617" y="358.0" />
+              <point x="1346.3869047619046" y="358.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="78.375" y="-81.0" />
+              <point x="414.1994047619046" y="338.0" />
+              <point x="767.9464285714284" y="338.0" />
+              <point x="-94.58333333333334" y="92.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.JRNOption">
+              <point x="-78.375" y="-81.0" />
+              <point x="257.4494047619046" y="358.0" />
+              <point x="80.5" y="358.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Major" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.AcademicDiscipline">
+              <point x="-39.75" y="-36.5" />
+              <point x="542.3124999999999" y="328.0" />
+              <point x="594.1458333333331" y="328.0" />
+              <point x="-41.5" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Advisor" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="-39.75" y="-36.5" />
+              <point x="907.7708333333331" y="358.0" />
+              <point x="881.4464285714284" y="358.0" />
+              <point x="18.916666666666657" y="92.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.UserType">
+              <point x="0.0" y="-92.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Course" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="-68.33333333333331" y="-48.0" />
+              <point x="1089.2380952380952" y="348.0" />
+              <point x="957.1130952380951" y="348.0" />
+              <point x="94.58333333333334" y="92.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="386.0" y="186.0" />
+          <SelectedNodes>
+            <node>f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.StudentCourseStatusView</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f51b6676-abf1-4a41-9ea4-0bfe8a5c1593/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/671af5cc/f51b6676-abf1-4a41-9ea4-0bfe8a5c1593/Journalism.CatalogYear">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/f51b6676-abf1-4a41-9ea4-0bfe8a5c1593">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>f51b6676-abf1-4a41-9ea4-0bfe8a5c1593</OriginalElement>
+          <nodes>
+            <node x="0.0" y="179.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.JRNOption</node>
+            <node x="1244.3869047619046" y="179.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CourseCompletionStatus</node>
+            <node x="1002.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.CourseView</node>
+            <node x="681.5624999999999" y="422.5">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Minor</node>
+            <node x="504.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.AdvisorView</node>
+            <node x="753.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.StudentAdvisorView</node>
+            <node x="254.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.StudentCourseStatusView</node>
+            <node x="1058.3869047619046" y="157.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Course</node>
+            <node x="1055.0714285714284" y="411.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Course</node>
+            <node x="502.5624999999999" y="422.5">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Major</node>
+            <node x="180.99999999999977" y="179.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Classification</node>
+            <node x="0.0" y="585.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.StudentView</node>
+            <node x="868.0208333333331" y="422.5">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Advisor</node>
+            <node x="356.9999999999999" y="190.5">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CatalogYear</node>
+            <node x="749.0297619047617" y="124.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User</node>
+            <node x="231.3244047619046" y="378.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student</node>
+            <node x="1058.3869047619046" y="0.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CoursePrefix</node>
+            <node x="779.5297619047617" y="0.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.UserType</node>
+            <node x="552.6458333333331" y="179.0">f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.AcademicDiscipline</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Minor" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.AcademicDiscipline">
+              <point x="-39.75" y="-36.5" />
+              <point x="721.3124999999999" y="328.0" />
+              <point x="677.1458333333331" y="328.0" />
+              <point x="41.5" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Course" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CoursePrefix">
+              <point x="0.0" y="-59.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Classification">
+              <point x="-26.125" y="-81.0" />
+              <point x="309.6994047619046" y="348.0" />
+              <point x="258.9999999999998" y="348.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Course" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Course">
+              <point x="1.4210854715202004E-14" y="-48.0" />
+              <point x="1157.5714285714284" y="358.0" />
+              <point x="1141.3869047619046" y="358.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Major" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="39.75" y="-36.5" />
+              <point x="621.8124999999999" y="348.0" />
+              <point x="805.7797619047617" y="348.0" />
+              <point x="-56.75000000000001" y="92.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Minor" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="39.75" y="-36.5" />
+              <point x="800.8124999999999" y="358.0" />
+              <point x="843.6130952380951" y="358.0" />
+              <point x="-18.91666666666667" y="92.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CatalogYear">
+              <point x="26.125" y="-81.0" />
+              <point x="361.9494047619046" y="328.0" />
+              <point x="413.9999999999999" y="328.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Course" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.CourseCompletionStatus">
+              <point x="68.33333333333333" y="-48.0" />
+              <point x="1225.9047619047617" y="358.0" />
+              <point x="1346.3869047619046" y="358.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="78.375" y="-81.0" />
+              <point x="414.1994047619046" y="338.0" />
+              <point x="767.9464285714284" y="338.0" />
+              <point x="-94.58333333333334" y="92.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.JRNOption">
+              <point x="-78.375" y="-81.0" />
+              <point x="257.4494047619046" y="358.0" />
+              <point x="80.5" y="358.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Major" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.AcademicDiscipline">
+              <point x="-39.75" y="-36.5" />
+              <point x="542.3124999999999" y="328.0" />
+              <point x="594.1458333333331" y="328.0" />
+              <point x="-41.5" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Advisor" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="-39.75" y="-36.5" />
+              <point x="907.7708333333331" y="358.0" />
+              <point x="881.4464285714284" y="358.0" />
+              <point x="18.916666666666657" y="92.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.UserType">
+              <point x="0.0" y="-92.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.Student_Course" target="f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.TABLE:Journalism.User">
+              <point x="-68.33333333333331" y="-48.0" />
+              <point x="1089.2380952380952" y="348.0" />
+              <point x="957.1130952380951" y="348.0" />
+              <point x="94.58333333333334" y="92.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8548009367681498" x="257.0" y="271.0" />
+          <SelectedNodes>
+            <node>f51b6676-abf1-4a41-9ea4-0bfe8a5c1593.VIEW:Journalism.StudentCourseStatusView</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Studentlist_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/studentlist/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="60" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-973">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/stats/index_Dylan.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/Stats_model_dylan.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/stats/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Stats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Stats_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Studentrecord_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <marker date="1515702391000" expanded="true" signature="203:255" ph="SELECT * FRO... StudentView" />
+            <marker date="1515702391000" expanded="true" signature="574:640" ph="SELECT * FRO... StudentCourseStatusView" />
+            <marker date="1515702391000" expanded="true" signature="1366:1427" ph="SELECT * FRO... StudentAdvisorView" />
+            <marker date="1515702391000" expanded="true" signature="1743:1890" ph="UPDATE User... " />
+            <marker date="1515702391000" expanded="true" signature="1743:1892" ph="UPDATE User... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/studentrecord/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2967">
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="84" lean-forward="false" selection-start-line="26" selection-start-column="83" selection-end-line="26" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Login_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <marker date="1514575702000" expanded="true" signature="905:1101" ph="INSERT INTO Student... " />
+            <marker date="1514575702000" expanded="true" signature="1201:1294" ph="INSERT INTO `Account`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="76" lean-forward="true" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Studentrecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

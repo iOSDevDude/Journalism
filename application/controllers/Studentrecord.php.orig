@@ -1,0 +1,51 @@
+<?php
+class Studentrecord extends CI_Controller {
+  public function __construct() {
+    parent::__construct();
+    $this->load->model('studentrecord_model');
+    $this->load->library('session');
+  }
+
+  public function index() {
+    if($this->input->post("update")) {
+      $studentFirstName = $this->input->post("studentFirstName");
+      $studentLastName = $this->input->post("studentLastName");
+      $localPart = $this->uri->segment(2);
+      $domain = $this->uri->segment(3);
+      $studentKSCEmail = $localPart . '@' . $domain;
+      $studentAlternateEmail = $this->input->post("studentAlternateEmail");
+      $classification = $this->input->post("classification");
+<<<<<<< HEAD
+      $catalogYear = $this->input->post("studentCatalogYear");
+      $majorDeclared = $this->input->post("majorDeclared");
+      $jrnOption = $this->input->post("jrnOption");
+      $minorDeclared = $this->input->post("minorDeclared");
+      $this->studentrecord_model->update_record($studentFirstName, $studentLastName, $studentKSCEmail, $studentAlternateEmail, $classification, $catalogYear, $majorDeclared, $jrnOption, $minorDeclared);
+=======
+      $catalogYear = $this->input->post("");
+      // $majorDeclared
+      // $JRNOption
+      // $minorDeclared
+      $this->studentrecord_model->update_record($studentFirstName, $studentKSCEmail);
+      $data['test'] = $studentKSCEmail;
+>>>>>>> 6842fbc54cd5beac8b4e9c8adc805a2dd9786e2f
+    }
+
+    $localPart = $this->uri->segment(2);
+    $domain = $this->uri->segment(3);
+    $email = $localPart . '@' . $domain;
+    $data['student'] = $this->studentrecord_model->get_student($email);
+    $data['courses'] = $this->studentrecord_model->get_courses();
+    $data['courseStatuses'] = $this->studentrecord_model->get_courses_with_status($email);
+    $data['courseCompletionStatuses'] = $this->studentrecord_model->get_course_completion_statuses();
+    $data['classifications'] = $this->studentrecord_model->get_classifications();
+    $data['jrnoptions'] = $this->studentrecord_model->get_jrnoptions();
+
+    // var to set up nav bar
+    $data['pageTitle'] = "record";
+
+    $this->load->view('templates/header', $data);
+    $this->load->view('studentrecord/index', $data);
+    $this->load->view('templates/footer');
+  }
+}

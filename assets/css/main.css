@@ -1,0 +1,83 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+small {
+	display: block;
+	margin-left: 15px;
+}
+
+.paradeiser a {
+    transition: 1s;
+    color: #CE1126;
+}
+
+.paradeiser a.active {
+    background-color: #CE1126;
+    color: white;
+}
+
+.paradeiser a.not-active:hover {
+    background-color: #CE1226;
+    color: white;
+}
+
+.paradeiser a span {
+    font-size: 16px;
+}
+
+.statsRow {
+	padding-top: 50px;
+}
+
+#recordPageForm input[type=submit] {
+	background-color: #CE1126;
+	border: none;
+  border-radius: 5px;
+  cursor: pointer;
+	color: white;
+	padding: 14px 20px;
+	font-weight: bold;
+	display: block;
+	margin: auto;
+}
+
+#logOutTab span:first-child {
+	color: black;
+}
+
+#studentListTable_wrapper {
+    margin-top: 20px;
+    max-width: 99rem;
+    margin: 0 auto;
+}
+
+#studentListTable_filter {
+	margin-right: 8px;
+}
+
+.errorLabel {
+	color:red;
+	text-align:center;"
+}
+
+.log-in-form {
+	border: 1px solid #cacaca;
+	padding: 1rem;
+	border-radius: 3px;
+	margin-top: 8em;
+}
+
+.log-in-form label, p, img {
+	max-width: 80%;
+	margin: 10px auto;
+}
+
+.log-in-form img {
+	display: block;
+	padding-bottom: 15px
+}
